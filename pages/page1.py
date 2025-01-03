@@ -29,7 +29,7 @@ dash.register_page(__name__, path='/')
 
 
 # IN-USE
-query_conn = 'postgresql://dbb_dashboard_database_user:pOXlMkfXHlr9Ru7D4lM1QYIVHqfqmIsK@http://dpg-ctrkbm23esus73de2o20-a.singapore-postgres.render.com/dbb_dashboard_database'
+query_conn = 'postgresql://dbb_dashboard_database_user:pOXlMkfXHlr9Ru7D4lM1QYIVHqfqmIsK@dpg-ctrkbm23esus73de2o20-a.singapore-postgres.render.com/dbb_dashboard_database'
 
 
 # --------------------------------------------- Definitions: Use for table ---------------------------------------------
